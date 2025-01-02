@@ -5,6 +5,11 @@
 ##### 제목 5
 ###### 제목 6
 
+<div class="code-box">
+  <pre><code>이거 팁입니다 코드 쓰세여</code></pre>
+  <button onclick="copyCode(this)"></button>
+</div>
+
 # 제목 7
 
 안녕하세요, **리드미 작성법을 공부하고** 있습니다.
