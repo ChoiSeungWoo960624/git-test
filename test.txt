@@ -13,4 +13,3 @@ pull test
 
 asdasdad
 
-해결 중
